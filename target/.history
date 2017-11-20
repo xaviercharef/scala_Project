@@ -1,0 +1,7 @@
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo /tmp/sbt-structure.xml
+all {file:/home/charef/scalaRepo/TP_ParisTech_2017_2018_starter/TP_ParisTech_2017_2018_starter/}tp_paristech_2017_2018_starter/products {file:/home/charef/scalaRepo/TP_ParisTech_2017_2018_starter/TP_ParisTech_2017_2018_starter/}tp_paristech_2017_2018_starter/test:products
+pwd
+all {file:/home/charef/scalaRepo/TP_ParisTech_2017_2018_starter/TP_ParisTech_2017_2018_starter/}tp_paristech_2017_2018_starter/products {file:/home/charef/scalaRepo/TP_ParisTech_2017_2018_starter/TP_ParisTech_2017_2018_starter/}tp_paristech_2017_2018_starter/test:products
+clear
+clean
+all {file:/home/charef/scalaRepo/TP_ParisTech_2017_2018_starter/TP_ParisTech_2017_2018_starter/}tp_paristech_2017_2018_starter/products {file:/home/charef/scalaRepo/TP_ParisTech_2017_2018_starter/TP_ParisTech_2017_2018_starter/}tp_paristech_2017_2018_starter/test:products
